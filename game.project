@@ -1,0 +1,10 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[display]
+width = 960
+height = 640
+high_dpi = 1
+[physics]
+gravity_y = -1000.0
+scale = 0.01
